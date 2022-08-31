@@ -1,5 +1,7 @@
 # Calculadora IMC
 
-Esse projeto faz parte da atividade do Módulo 2 do minicamp da Xpe.
+Projeto desenvolvido inicial como atividade do Módulo 2 do minicamp da Xpe.
 
-Para o projeto em questão foi utilizado Html, CSS e JS.
+Página em atualização com implentação de novas funções e estilos.
+
+Para odDesenvolvido com as tecnologias  Html5, CSS3 e JS.
